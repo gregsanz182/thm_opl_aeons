@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeConfig>
+    <Name>OPL Aeons</Name>
+    <Author>gregsanz182</Author>
+    <HasInfoPage>false</HasInfoPage>
+    <Width>640</Width>
+    <Height>480</Height>
+    <Debug>false</Debug>
+    <MainPage>
+        <BgColor>#3573B8</BgColor>
+        <Elements>
+            <Image type="BG"/>
+            <Image type="FILE">
+                <source>frame_1.png</source>
+            </Image>
+            <Image type="ICO">
+                <x>515</x>
+                <y>54</y>
+                <widthX>64</widthX>
+                <heightY>64</heightY>
+            </Image>
+            <Image type="COV">
+                <x>175</x>
+                <y>204</y>
+                <widthX>140</widthX>
+                <heightY>200</heightY>
+            </Image>
+            <GameList>
+                <x>270</x>
+                <y>102</y>
+                <maxWidth>260</maxWidth>
+                <maxHeight>291</maxHeight>
+                <fontSize>15</fontSize>
+                <color>#888888</color>
+                <colorSelected>#0785BA</colorSelected>
+            </GameList>
+            <Text>
+                <x>21</x>
+                <y>424</y>
+                <fontSize>18</fontSize>
+                <color>#FFFFFF</color>
+                <align>Left</align>
+                <text>{OPLM:Help}</text>
+            </Text>
+        </Elements>
+    </MainPage>
+</ThemeConfig>
