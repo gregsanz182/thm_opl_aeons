@@ -1,6 +1,12 @@
 OPL Aeons Theme
 ================
 
+<br>
+<p align="center">
+  <img src="res/main_cap.jpg"/>
+</p>
+<br>
+
 
 An OpenPS2Loader theme inspired by the PS4 Dashboard. This theme is based on Jay-Jay's Themes. It has support for cover images and background, also providing an ELM (PSone games) page with square game covers.
 
