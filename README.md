@@ -1,4 +1,4 @@
-OPL Aeons Theme
+OPL Æons Theme
 ================
 
 <br>
